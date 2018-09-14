@@ -1,0 +1,4 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "resource/css/vendors/style.css";
+@import "resource/css/custom.css";
